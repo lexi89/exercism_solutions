@@ -1,1 +1,1 @@
-# Repo for problems attempted on http://exercism.io
+# Solutions for problems attempted on http://exercism.io
